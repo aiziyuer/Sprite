@@ -1,0 +1,12 @@
+GEM
+  remote: https://ruby.taobao.org/
+  specs:
+    gem-fast (0.0.6.3)
+    thread (0.1.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gem-fast (~> 0.0.6.3)
+  thread (~> 0.1.5)
